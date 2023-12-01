@@ -1,0 +1,36 @@
+body {
+    /* background-color: aqua; */
+    background-image: url(./img.jpg);
+    background-size: cover;
+}
+
+.center-box {
+    background-color: rgba(255, 255, 255, 0.345);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+
+.mainContent {
+    margin-top: 40%;
+}
+
+#countButton {
+    font-size: 20px;
+    background-color: lightskyblue;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+#startGame {
+    font-size: 20px;
+    background-color: lightskyblue;
+    border-radius: 25%;
+    cursor: pointer;
+}
